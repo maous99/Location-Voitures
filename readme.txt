@@ -1,0 +1,2 @@
+---> SI VOUS VOULEZ ACCÉDER AU PROGRAMME DIRECTEMENT: aller dans le dossier ../setup .
+---> SI VOUS VOULEZ VERIFIER LE CODE: aller dans le dossier ../codeSource .
